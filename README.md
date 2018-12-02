@@ -3,3 +3,5 @@
 A simple implementation of Game of Life with ```Vue``` and canvas
 
 Demo is  here: [Game of Life](https://raychenfj.github.io/game-of-life/)
+
+![](./images/game-of-life.gif)
